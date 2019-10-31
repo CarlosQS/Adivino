@@ -1,2 +1,2 @@
 # Adivino
-Nuevo repositorio tipo Java
+Abrir la rama cambio
